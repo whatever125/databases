@@ -1,7 +1,7 @@
 # Лабораторная работа №2
 
 ## Вариант 3131234
-Отчет: [pdf](./report.pdf), [docx](./report.docx)
+Отчет: [pdf](./reports/report.pdf), [docx](./reports/report.docx)
 
 ### Текст заданя
 
